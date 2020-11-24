@@ -35,7 +35,7 @@
 				<span @click.stop="fontred()">-</span>
 				<span @click.stop="fontadd()">+</span>
 			</div>
-			<li class="centerhidden-li"><span @click="mulushow()">目录</span></li>
+			<!-- <li class="centerhidden-li"><span @click="mulushow()">目录</span></li> -->
 		</van-popup>
 
 		<div class="btn">
